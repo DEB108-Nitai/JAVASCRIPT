@@ -1,2 +1,2 @@
-# JAVACRIPT-
+# JAVACRIPT
 Learning Javascript 
