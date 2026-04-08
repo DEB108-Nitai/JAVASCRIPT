@@ -11,7 +11,7 @@
 console.log(null > 0);
 console.log(null == 0);
 console.log(null >= 0);
-// == and inequality works differently in js . inequality converts null into number so outputs come accordingly but == doesn't do the same 
+// == and inequality works differently in js . inequality converts null into number so outputs come accordingly but == doesn't change the null into number, thats why it is giving false . >= converts null into 0 , thats why it is giving true
 
 
 console.log(undefined == 0);

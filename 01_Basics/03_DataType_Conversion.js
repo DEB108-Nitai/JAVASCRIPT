@@ -16,6 +16,7 @@ let isLoggedIn = "Hare Krishna "
 
 let booleanLoggedIn = Boolean(isLoggedIn)
 
+
 console.log(typeof booleanLoggedIn)
 console.log(booleanLoggedIn)
 
